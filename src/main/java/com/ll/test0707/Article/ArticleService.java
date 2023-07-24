@@ -1,4 +1,4 @@
-package com.ll.test0707.Board;
+package com.ll.test0707.Article;
 
 
 import lombok.RequiredArgsConstructor;

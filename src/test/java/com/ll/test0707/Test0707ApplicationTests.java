@@ -1,7 +1,7 @@
 package com.ll.test0707;
 
-import com.ll.test0707.Board.Article;
-import com.ll.test0707.Board.ArticleRepository;
+import com.ll.test0707.Article.Article;
+import com.ll.test0707.Article.ArticleRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
